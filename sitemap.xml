@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>http://flw.science/</loc>
+    <loc>http://flw.science/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://flw.science/tags/</loc>
+    <loc>http://flw.science/</loc>
     <priority>0</priority>
   </url>
   
